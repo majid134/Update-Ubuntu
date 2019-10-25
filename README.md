@@ -1,2 +1,2 @@
 # Update-Ubuntu
-Debian package to update ubuntu
+This Ubuntu app will make your ubuntu upgrade more easier
